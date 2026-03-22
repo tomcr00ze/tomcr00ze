@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomcr00ze
 - 👀 I’m interested in Engineering
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on AI projects in JavaScript/TypeScript
+- 🌱 I’m currently learning AI/ML (i know its a broad & vague term)
+- 💞️ I’m looking to collaborate on Full-Stack + AI projects
 - 📫 You can reach me through my mailing address
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I need to write my pronouns
