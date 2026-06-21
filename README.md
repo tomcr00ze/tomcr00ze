@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomcr00ze
-- 👀 I’m interested in Engineering
+- 👀 I’m interested in Sciencce & Engineering
 - 🌱 I’m currently learning AI/ML (i know its a broad & vague term)
 - 💞️ I’m looking to collaborate on Full-Stack + AI projects
 - 📫 You can reach me through my mailing address
